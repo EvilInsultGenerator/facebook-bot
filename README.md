@@ -1,7 +1,7 @@
 # Evil Insult Generator Facebook Bot
 [![Build Status](https://travis-ci.org/EvilInsultGenerator/facebook-bot.svg?branch=master)](https://travis-ci.org/EvilInsultGenerator/facebook-bot)
 [![codecov](https://codecov.io/gh/EvilInsultGenerator/facebook-bot/branch/master/graph/badge.svg)](https://codecov.io/gh/EvilInsultGenerator/facebook-bot)
-[![Website](https://img.shields.io/website-up-down-green-red/https/evilinsult.com.svg)]()
+[![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg)](https://evilinsult.com)
 
 Evil Insult Generator's goal is to offer the most evil insults. Please help us to reach this honorable purpose by submitting insults via mail.
 
